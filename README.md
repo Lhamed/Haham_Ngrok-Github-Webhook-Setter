@@ -1,6 +1,7 @@
 Haham_Ngrok-Github-Webhook-Setter
 
-it is node.js app that help set ngrok's address on pre-created github webhook target url. (It Edits URL) 
+it is node.js app that help set ngrok's address on pre-created github webhook target url. 
+(It make ngrok work, and then It web hook's Edits URL) 
 
 made by lhamed (Jung youn jae , Korean , junior game developer )
 
