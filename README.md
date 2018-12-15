@@ -17,3 +17,8 @@ how to use
 4. And See console for github webhook setting details.
 
 -------------
+
+used NPM Modules
+
+readline
+ngrok
