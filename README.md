@@ -17,3 +17,11 @@ how to use
 4. And See console for github webhook setting details.
 
 -------------
+
+used NPM Modules
+
+readline https://github.com/clibs/readline
+
+ngrok https://github.com/bubenshchykov/ngrok
+
+openurl https://github.com/rauschma/openurl
