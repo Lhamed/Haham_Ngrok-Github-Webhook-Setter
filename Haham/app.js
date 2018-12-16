@@ -114,7 +114,7 @@ function SetWebhookPatch(newurl) {
                 {
                     config:
                     {
-                        url: newurl
+                        url: newurl + '/github-webhook'
                     },
 
                 },
